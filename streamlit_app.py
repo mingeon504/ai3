@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["중국식 냉면은 맛있다", "중국식 냉면은 여름에 먹습니다", "시원합니다"],
        "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MzBfMTE0%2FMDAxNjI3NjM5MTg2MzA1.hQNVefHMeee8_yu5G9NeSHaRJM8gI0sgbtnhndi2jiAg.E4soA9N4nLDxyM4Fo8OkvBEl6Xp7_eQzY67h_KWzqo4g.JPEG.llzzinll%2FIMG_9560.JPG&type=sc960_832"],
-      "videos": ["https://youtu.be/JGPPYe7l6qE?si=MnjOpvlmCzTAzlzm]
+      "videos": ["https://youtu.be/JGPPYe7l6qE?si=MnjOpvlmCzTAzlzm"]
      },
     
     labels[1]: {
