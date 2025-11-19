@@ -71,26 +71,26 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
   
      labels[0]: {
        "texts": ["중국식 냉면은 맛있다", "중국식 냉면은 여름에 먹습니다", "시원합니다"],
-       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MzBfMTE0%2FMDAxNjI3NjM5MTg2MzA1.hQNVefHMeee8_yu5G9NeSHaRJM8gI0sgbtnhndi2jiAg.E4soA9N4nLDxyM4Fo8OkvBEl6Xp7_eQzY67h_KWzqo4g.JPEG.llzzinll%2FIMG_9560.JPG&type=sc960_832"],
-      "videos": ["https://youtu.be/JGPPYe7l6qE?si=MnjOpvlmCzTAzlzm"]
+        "images": [""], 
+         "videos": ["https://youtu.be/JGPPYe7l6qE?si=MnjOpvlmCzTAzlzm"]
      },
     
     labels[1]: {
        "texts": ["짜장면은 종류가 여러가지이다", "짜장면은 야채가 많다", "짜장면에는 춘장이 들어간다"],
-       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTAzMzFfMzAw%2FMDAxNzQzMzk1MTUzNjAz.-gRPE2W0CWAkFL6XB9EMAMNi2A61bwoVd0LMDE8YKjUg.QDEqbg9EkayEwNHRIkfeF1U4JDiefTk_Vz9meKzj6rMg.JPEG%2F%25B4%25EB%25C7%25A50.jpg&type=sc960_832],
+      "images": [""], 
       "videos": ["https://youtu.be/GWvjaFszkDw?si=VsxNLdfc_4DNeVhM"]
      },
     
     labels[2]: {
        "texts": ["짬뽕은 해물이 있다", "춘장이 들어가지 않는다", "국물이 객관적으로 매울 확률이 높다"],
-       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTAzMjhfMTAx%2FMDAxNzQzMTQxMDc4ODA4.DMM0jt4BiBX9jEC3VCtfcLdifIbK1vgusXMcpJyb-z0g.g4-1FQ-FajlsWuy2hR1PJqW_KbVx1Il9RyIkhGsEIe0g.JPEG%2F900%25A3%25DF20250328%25A3%25DF144131.jpg&type=sc960_832"],
-      "videos": ["https://youtube.com/shorts/twPuyLMVE2I?si=4VQ2wOA9OFWaIDLU"]
+       "images": [""], 
+        "videos": ["https://youtube.com/shorts/twPuyLMVE2I?si=4VQ2wOA9OFWaIDLU"]
      },
     
     labels[3]: {
        "texts": ["탕수육은 바삭하다", "부먹과 찍먹으로 나뉜다", "탕수육소스에는 야채가 있다"],
-       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA0MTRfMTYx%2FMDAxNzQ0NjAyNzA3NDQ0.C2yHYUIdcXAiELQVKizSDHYY4QH803J7B5eNgj8uCHQg.YKPkSfGNrxIo1dFKltY3BgD9sZs-rA89vL09OkIhD60g.JPEG%2F%25B0%25AD%25B8%25AA%25B5%25BF%25C7%25D8%25BF%25F8_%252810%2529.JPG&type=sc960_832"],
-      "videos": ["https://youtube.com/shorts/1nJhbw6HNl8?si=o0FwbAAhxAvOeo0J"]
+        "images": [""], 
+        "videos": ["https://youtube.com/shorts/1nJhbw6HNl8?si=o0FwbAAhxAvOeo0J"]
      },
 }
 
