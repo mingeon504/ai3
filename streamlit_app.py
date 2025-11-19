@@ -77,19 +77,19 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
     labels[1]: {
        "texts": ["짜장면은 종류가 여러가지이다", "짜장면은 야채가 많다", "짜장면에는 춘장이 들어간다"],
-      "images": [""], 
+      "images": ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230628/gv00000707399_1.jpg"], 
       "videos": ["https://youtu.be/GWvjaFszkDw?si=VsxNLdfc_4DNeVhM"]
      },
     
     labels[2]: {
        "texts": ["짬뽕은 해물이 있다", "춘장이 들어가지 않는다", "국물이 객관적으로 매울 확률이 높다"],
-       "images": [""], 
+       "images": ["https://www.chosun.com/resizer/v2/YPSL2DAN5VDJ5C3HNXWHKJGCRU.jpg?auth=d98ca02f38dff609ee5b3bee78894f70a11a2b0e7d232c84581ebb04140eeb76&width=616"], 
         "videos": ["https://youtube.com/shorts/twPuyLMVE2I?si=4VQ2wOA9OFWaIDLU"]
      },
     
     labels[3]: {
        "texts": ["탕수육은 바삭하다", "부먹과 찍먹으로 나뉜다", "탕수육소스에는 야채가 있다"],
-        "images": [""], 
+        "images": ["https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp"], 
         "videos": ["https://youtube.com/shorts/1nJhbw6HNl8?si=o0FwbAAhxAvOeo0J"]
      },
 }
